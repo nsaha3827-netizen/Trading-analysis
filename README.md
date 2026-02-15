@@ -23,3 +23,8 @@ The calculator ensures disciplined risk management and removes emotional positio
 Risk Amount = Account Balance × Risk %
 Lot Size = Risk Amount ÷ (Stop Loss Points × Pip Value per Lot)
 
+
+## 📊 Dashboard Preview
+
+![Trading Dashboard](https://raw.githubusercontent.com/nsaha3827-netizen/Trading-analysis/main/trading-overview.jpg)
+
